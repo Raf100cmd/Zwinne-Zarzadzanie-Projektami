@@ -1,0 +1,38 @@
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.exe
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.deps.json
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.runtimeconfig.json
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.dll
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.pdb
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\App.g.cs
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów_MarkupCompile.cache
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.g.resources
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.AssemblyInfoInputs.cache
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.AssemblyInfo.cs
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.csproj.CoreCompileInputs.cache
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.dll
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\refint\ListaZakupów.dll
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.pdb
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.genruntimeconfig.cache
+D:\Akademia WSB\3 semestr\ListaZakupów\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ref\ListaZakupów.dll
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.exe
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.deps.json
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.runtimeconfig.json
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.dll
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\bin\Debug\net8.0-windows\ListaZakupów.pdb
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów_MarkupCompile.cache
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.g.resources
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.AssemblyInfoInputs.cache
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.AssemblyInfo.cs
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.csproj.CoreCompileInputs.cache
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.dll
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\refint\ListaZakupów.dll
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.pdb
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ListaZakupów.genruntimeconfig.cache
+C:\Users\48669\Desktop\ListaZakupów\ListaZakupów\obj\Debug\net8.0-windows\ref\ListaZakupów.dll

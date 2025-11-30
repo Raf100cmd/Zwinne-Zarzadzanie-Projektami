@@ -1,0 +1,75 @@
+﻿<Window x:Class="ListaZakupowWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lista zakupów" Height="932" Width="430"
+        Background="White">
+
+    <Grid Margin="5">
+        <TabControl x:Name="TabControlMain" TabStripPlacement="Bottom">
+
+            <!-- Zakładka Produkty -->
+            <TabItem Header="Produkty">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="0">
+                        <TextBox x:Name="TxtProdukt" Width="150" Height="35" FontSize="16" Padding="5" Background="#EEE" Foreground="Black" BorderBrush="#AAA"/>
+                        <ComboBox x:Name="CmbKategoria" Width="120" Height="35" FontSize="16" Background="#EEE" Foreground="Black" BorderBrush="#AAA" SelectedIndex="0">
+                            <ComboBoxItem Content="Warzywa"/>
+                            <ComboBoxItem Content="Owoce"/>
+                            <ComboBoxItem Content="Nabiał"/>
+                            <ComboBoxItem Content="Napoje"/>
+                            <ComboBoxItem Content="Mięso"/>
+                            <ComboBoxItem Content="Inne"/>
+                        </ComboBox>
+                        <Button Content="Dodaj" Width="80" Height="35" Margin="5,0" Click="BtnDodajProdukt_Click"/>
+                    </StackPanel>
+
+                    <ListBox x:Name="ListaProdukty" Grid.Row="1" Background="White" BorderThickness="1" FontSize="16" Foreground="Black"/>
+                </Grid>
+            </TabItem>
+
+            <!-- Zakładka Zakupy -->
+            <TabItem Header="Zakupy">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Wybór lub utworzenie listy zakupów -->
+                    <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="0">
+                        <ComboBox x:Name="CmbListeZakupow" Width="200" Height="35" FontSize="16" Background="#EEE" Foreground="Black" BorderBrush="#AAA" SelectionChanged="CmbListeZakupow_SelectionChanged"/>
+                        <TextBox x:Name="TxtNazwaNowejListy" Width="120" Height="35" FontSize="16" Padding="5" Background="#EEE" Foreground="Gray"
+                                 Text="Nazwa nowej listy" GotFocus="TxtNazwaNowejListy_GotFocus" LostFocus="TxtNazwaNowejListy_LostFocus"/>
+                        <Button Content="Nowa lista" Width="80" Height="35" Margin="5,0" Click="BtnNowaListaZakupow_Click"/>
+                        <Button Content="Usuń listę" Width="80" Height="35" Margin="5,0" Click="BtnUsunListeZakupow_Click"/>
+                    </StackPanel>
+
+                    <!-- Dodawanie zakupów -->
+                    <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="1">
+                        <ComboBox x:Name="CmbProduktyDoZakupow" Width="200" Height="35" FontSize="16" Background="#EEE" Foreground="Black" BorderBrush="#AAA"/>
+                        <TextBox x:Name="TxtIloscZakup" Width="50" Height="35" FontSize="16" Padding="5" Background="#EEE" Foreground="Black" BorderBrush="#AAA"/>
+                        <ComboBox x:Name="CmbJednostkaZakup" Width="60" Height="35" FontSize="16" Background="#EEE" Foreground="Black" BorderBrush="#AAA" SelectedIndex="0">
+                            <ComboBoxItem Content="szt."/>
+                            <ComboBoxItem Content="kg"/>
+                        </ComboBox>
+                        <Button Content="Dodaj" Width="120" Height="35" Margin="5,0" Click="BtnDodajDoZakupow_Click"/>
+                    </StackPanel>
+
+                    <ListBox x:Name="ListaZakupy" Grid.Row="2" Background="White" BorderThickness="1" FontSize="16" Foreground="Black"/>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>
+
+
+
+
